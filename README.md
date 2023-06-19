@@ -1,1 +1,1 @@
-Materiały napisane w trakcie 3. semestru na Politechnice Poznańskiej. Obejmują podstawy algorytmicznego programowania - operowanie na drzewie binarnym, listy jedno/dwu kieronowe. Większość oparta o wskaźniki
+Materiały napisane w trakcie 3. semestru na Politechnice Poznańskiej. Obejmują podstawy algorytmicznego programowania - operowanie na drzewie binarnym, listy jedno/dwu kieronowe. Wszystkie wtedy wprwadzane dane wymagały specyficznej walidacji danych.
